@@ -1,0 +1,39 @@
+Express Generator:
+EJS Engine: (Template Engine)
+
+Skeleton: 
+- application site structure
+- create basic application(website)
+
+1. Install express-generator
+sudo npm install -g express-generator - mac
+npm install -g express-generator - windows
+
+2. Create site structure
+express -e
+
+Optional: If you don't have permission:
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser 
+
+3. npm install
+
+4. npm install -g nodemon
+
+<%= variablename %>
+
+5. Install Bootstrap
+npm install bootstrap --save
+
+6. Install JQuery
+npm install jquery --save
+
+7. Install Popper.js
+npm install popper.js --save
+
+
+
+
+
+
+
+
